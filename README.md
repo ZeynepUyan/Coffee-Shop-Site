@@ -8,8 +8,9 @@ a site that shows a cafe's menu
 
 <h2> ⛓️‍💥 TECHNOLOGIES USED </h2>
 
-🔸html
-🔸css
+-html
+-css
+-js
 
 <h2> 🎬 PREVIEW </h2>
 
