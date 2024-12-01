@@ -13,4 +13,4 @@ a site that shows a cafe's menu
 
 <h2> 🎬 PREVIEW </h2>
 
-![coffee-gif-için.gif]()
+![](coffee-gif-için.gif)
